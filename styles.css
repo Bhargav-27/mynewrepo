@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>External CSS Example</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>External CSS Demo</h1>
+    <p>This content is styled using an external stylesheet.</p>
+    <button>Click Me</button>
+  </div>
+</body>
+</html>
